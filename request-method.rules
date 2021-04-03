@@ -1,0 +1,1 @@
+(http.request.method eq "POST" and http.request.method eq "HEAD")
