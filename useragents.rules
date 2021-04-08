@@ -1,1 +1,1 @@
-(http.user_agent eq "CheckHost (https://check-host.net/)" and http.user_agent eq "Go-http-client/1.1")
+(http.user_agent eq "CheckHost (https://check-host.net/)" and http.user_agent eq "Go-http-client/1.1") 
