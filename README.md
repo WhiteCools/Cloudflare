@@ -6,7 +6,7 @@ Since Layer 7 Has Reached The Majority Of The Public Thanks To Github And Kids S
 
 Rule Name | File Name | Action | What For
 ---- | ---- | ---- | ----
-Countries | [common-country.rules](./common-country.rules) | Block | Only allow country's who wont pass much malicous traffic.<br>
+Countries | [common-country.rules](./common-country.rules) | Block | Only Allow Country's Who Wont Pass Much Malicous Traffic.<br>
 ASN List | [bad-asn.rules](./bad-asn.rules) | Block | ASN List Of Most Known Proxyscraping Sites.<br>
 Request Method | [request-method.rules](./request-method.rules) | Block | Block POST & HEAD Request's Only Allow GET Request's Unless Needed.<br>
 useragents.rules | [useragents.rules](./useragents.rules) | Block | Block Checkhost & Golang Useragent Isnt Required And Mostly Pointless.<br>
