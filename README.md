@@ -8,8 +8,8 @@ Rule Name | File Name | Action | What For
 ---- | ---- | ---- | ----
 Countries | [common-country.rules](./common-country.rules) | Block | Only Allow Country's Who Wont Pass Much Malicous Traffic.<br>
 ASN List | [bad-asn.rules](./bad-asn.rules) | Block | ASN List Of Most Known Proxyscraping Sites.<br>
+useragents.rules | [threatscore.rules](./threatscore.rules) | Block | Block Bad Threats Flagged By Cloudflare<br>
 Request Method | [request-method.rules](./request-method.rules) | Block | Block POST & HEAD Request's Only Allow GET Request's Unless Needed.<br>
-useragents.rules | [useragents.rules](./useragents.rules) | Block | Block Checkhost & Golang Useragent Isnt Required And Mostly Pointless.<br>
 
 ## ☁️ How To Basic ☁️
 ![](https://media.discordapp.net/attachments/819747919581675530/829677841292460042/unknown.png) 
