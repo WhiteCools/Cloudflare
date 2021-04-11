@@ -1,1 +1,2 @@
-(http.user_agent eq "CheckHost (https://check-host.net/)" and http.user_agent eq "Go-http-client/1.1") 
+(cf.threat_score eq 3 and cf.threat_score gt 3)
+
