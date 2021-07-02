@@ -1,1 +1,1 @@
-(not ip.geoip.country in {"GB" "US" "UA" "NL" "FR" "ES" "IT" "CA" "PL" "TH" "MX" "DE" "SE" "DK" "LU" "MY" "FI" "AR" "CL" "CR" "GR" "NZ" "AU" "AT" "AN" "SG" "IE" "CH" "BE" "SZ" "NO" "VN" "CZ" "IS"})
+(not ip.geoip.country in {"GB" "US" "FR" "ES" "IT" "CA" "DE" "SE" "DK" "FI" "NZ" "AU" "IE" "BE" "CY" "NL"})
