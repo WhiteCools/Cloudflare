@@ -1,6 +1,6 @@
 ### ☁️ Cloudflare Firewall Rules To Prevent DDOS Attacks ☁️
 
-Since Layer 7 Has Reached The Majority Of The Public Thanks To Github And Kids Sites Are Being Railed Best I Released This For Those Who Have Zero Idea What There Doing. There NOT The Best By Any Means However It Will Stop Most Attacks.
+Not recommend for sites with a large target range inside Asia
 
 ## ☁️ Firewall Rules ☁️
 
