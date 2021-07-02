@@ -1,0 +1,10 @@
+Manually ADD !
+_______________________________________________________
+SSL > Full
+SSL > SSL/TLS Recommender > ON
+_______________________________________________________
+SSL > Edge Certificates > Always Use HTTPS > ON
+SSL > Edge Certificates > Automatic HTTPS Rewrites > ON
+SSL > Edge Certificates > TLS 1.3 > ON
+SSL > Edge Certificates > Opportunistic Encryption > ON
+SSL > Edge Certificates > Minimum TLS Version > v1.2
