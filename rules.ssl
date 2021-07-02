@@ -8,3 +8,19 @@ SSL > Edge Certificates > Automatic HTTPS Rewrites > ON
 SSL > Edge Certificates > TLS 1.3 > ON
 SSL > Edge Certificates > Opportunistic Encryption > ON
 SSL > Edge Certificates > Minimum TLS Version > v1.2
+_______________________________________________________
+Not SSL ! (But ADD)
+_______________________________________________________
+
+Firewall > Settings > Browser Integrity Check > OFF (JS Chal? Memes)
+Firewall > Settings > Privacypass Support > OFF
+---------------------------------------------------
+Firewall > Tools > User Agent Blocking > Create Blocking Rule (7 User-Agents)
+ 
+CyotekWebCopy/1.8 CyotekHTTP/3.0 > Block
+CyotekWebCopy/1.8 CyotekHTTP/1.1 > Block
+CyotekWebCopy/1.8 CyotekHTTP/2.0 > Block
+Wget/1.20.3 (mingw32) > Block
+CheckHost (https://check-host.net/) > Block 
+node-fetch/1.0 (+https://github.com/bitinn/node-fetch) > Block
+Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98) > Block
