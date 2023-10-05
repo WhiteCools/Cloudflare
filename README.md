@@ -18,4 +18,4 @@ Request Method | [request-method.rules](./request-method.rules) | Block | Block 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678478278000650/unknown.png) 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678903131897906/unknown.png) 
 
-## ☁️ Dont Sell This Script ('
+## ☁️ Flazu Team 
